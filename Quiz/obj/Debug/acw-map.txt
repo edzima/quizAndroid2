@@ -1,0 +1,28 @@
+Quiz.dialogCategory, Quiz;md591606c899593bc34604895fc137b5056.dialogCategory
+Quiz.dialogCategory, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.dialogCategory
+Quiz.dialogCategory;md591606c899593bc34604895fc137b5056.dialogCategory
+quiz.dialogCategory;md591606c899593bc34604895fc137b5056.dialogCategory
+Quiz.dialog_Login, Quiz;md591606c899593bc34604895fc137b5056.dialog_Login
+Quiz.dialog_Login, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.dialog_Login
+Quiz.dialog_Login;md591606c899593bc34604895fc137b5056.dialog_Login
+quiz.dialog_Login;md591606c899593bc34604895fc137b5056.dialog_Login
+Quiz.MainActivity, Quiz;md591606c899593bc34604895fc137b5056.MainActivity
+Quiz.MainActivity, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.MainActivity
+Quiz.MainActivity;md591606c899593bc34604895fc137b5056.MainActivity
+quiz.MainActivity;md591606c899593bc34604895fc137b5056.MainActivity
+Quiz.dialog_Register, Quiz;md591606c899593bc34604895fc137b5056.dialog_Register
+Quiz.dialog_Register, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.dialog_Register
+Quiz.dialog_Register;md591606c899593bc34604895fc137b5056.dialog_Register
+quiz.dialog_Register;md591606c899593bc34604895fc137b5056.dialog_Register
+Quiz.MenuActivity, Quiz;md591606c899593bc34604895fc137b5056.MenuActivity
+Quiz.MenuActivity, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.MenuActivity
+Quiz.MenuActivity;md591606c899593bc34604895fc137b5056.MenuActivity
+quiz.MenuActivity;md591606c899593bc34604895fc137b5056.MenuActivity
+Quiz.quizActiviti, Quiz;md591606c899593bc34604895fc137b5056.quizActiviti
+Quiz.quizActiviti, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.quizActiviti
+Quiz.quizActiviti;md591606c899593bc34604895fc137b5056.quizActiviti
+quiz.quizActiviti;md591606c899593bc34604895fc137b5056.quizActiviti
+Quiz.selectCategoryActivity, Quiz;md591606c899593bc34604895fc137b5056.selectCategoryActivity
+Quiz.selectCategoryActivity, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.selectCategoryActivity
+Quiz.selectCategoryActivity;md591606c899593bc34604895fc137b5056.selectCategoryActivity
+quiz.selectCategoryActivity;md591606c899593bc34604895fc137b5056.selectCategoryActivity
