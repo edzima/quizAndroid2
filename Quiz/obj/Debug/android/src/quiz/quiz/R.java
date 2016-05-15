@@ -23,46 +23,50 @@ public final class R {
         public static final int progressbarstyle=0x7f020004;
     }
     public static final class id {
-        public static final int a0=0x7f070011;
-        public static final int a1=0x7f070012;
-        public static final int a2=0x7f070013;
-        public static final int a3=0x7f070014;
+        public static final int a0=0x7f070012;
+        public static final int a1=0x7f070013;
+        public static final int a2=0x7f070014;
+        public static final int a3=0x7f070015;
         public static final int btnAddCategory=0x7f070001;
         public static final int btnAddQuestion=0x7f07000b;
-        public static final int btnAddUser=0x7f07001c;
-        public static final int btnLogOut=0x7f07000d;
+        public static final int btnAddUser=0x7f07001f;
+        public static final int btnLogOut=0x7f07000e;
         public static final int btnLogin=0x7f070006;
         public static final int btnMenuIn=0x7f070004;
-        public static final int btnOdpowiedz=0x7f070017;
+        public static final int btnOdpowiedz=0x7f070018;
+        public static final int btnRanking=0x7f07000d;
         public static final int btnRegister=0x7f070008;
         public static final int btnSelectCategory=0x7f07000a;
         public static final int btnToAddCategory=0x7f07000c;
-        public static final int czasBar=0x7f070016;
-        public static final int listView1=0x7f07001e;
+        public static final int czasBar=0x7f070017;
+        public static final int listView1=0x7f070020;
+        public static final int listrank=0x7f07001a;
         public static final int progressBar1=0x7f070009;
-        public static final int radioGroup1=0x7f070010;
-        public static final int textView1=0x7f07001d;
+        public static final int radioGroup1=0x7f070011;
+        public static final int textView1=0x7f070019;
         public static final int txtCategoryName=0x7f070000;
         public static final int txtCreate=0x7f070005;
-        public static final int txtLogin=0x7f070018;
+        public static final int txtLogin=0x7f07001b;
         public static final int txtLoginLogin=0x7f070002;
         public static final int txtLoginPassword=0x7f070003;
         public static final int txtLub=0x7f070007;
-        public static final int txtMail=0x7f070019;
-        public static final int txtPassword=0x7f07001a;
-        public static final int txtPassword2=0x7f07001b;
-        public static final int txtPozostalo=0x7f070015;
-        public static final int txtQuestion=0x7f07000f;
-        public static final int txtQuizNr=0x7f07000e;
+        public static final int txtMail=0x7f07001c;
+        public static final int txtPassword=0x7f07001d;
+        public static final int txtPassword2=0x7f07001e;
+        public static final int txtPozostalo=0x7f070016;
+        public static final int txtQuestion=0x7f070010;
+        public static final int txtQuizNr=0x7f07000f;
     }
     public static final class layout {
         public static final int addcategory=0x7f030000;
-        public static final int login=0x7f030001;
-        public static final int main=0x7f030002;
-        public static final int menu=0x7f030003;
-        public static final int quiz=0x7f030004;
-        public static final int register=0x7f030005;
-        public static final int selectcategory=0x7f030006;
+        public static final int addquiz=0x7f030001;
+        public static final int login=0x7f030002;
+        public static final int main=0x7f030003;
+        public static final int menu=0x7f030004;
+        public static final int quiz=0x7f030005;
+        public static final int ranking=0x7f030006;
+        public static final int register=0x7f030007;
+        public static final int selectcategory=0x7f030008;
     }
     public static final class string {
         public static final int ApplicationName=0x7f050001;

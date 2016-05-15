@@ -1,3 +1,7 @@
+Quiz.adQuestionActivity, Quiz;md591606c899593bc34604895fc137b5056.adQuestionActivity
+Quiz.adQuestionActivity, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.adQuestionActivity
+Quiz.adQuestionActivity;md591606c899593bc34604895fc137b5056.adQuestionActivity
+quiz.adQuestionActivity;md591606c899593bc34604895fc137b5056.adQuestionActivity
 Quiz.dialogCategory, Quiz;md591606c899593bc34604895fc137b5056.dialogCategory
 Quiz.dialogCategory, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.dialogCategory
 Quiz.dialogCategory;md591606c899593bc34604895fc137b5056.dialogCategory
@@ -22,6 +26,10 @@ Quiz.quizActiviti, Quiz;md591606c899593bc34604895fc137b5056.quizActiviti
 Quiz.quizActiviti, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.quizActiviti
 Quiz.quizActiviti;md591606c899593bc34604895fc137b5056.quizActiviti
 quiz.quizActiviti;md591606c899593bc34604895fc137b5056.quizActiviti
+Quiz.RankingActivity, Quiz;md591606c899593bc34604895fc137b5056.RankingActivity
+Quiz.RankingActivity, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.RankingActivity
+Quiz.RankingActivity;md591606c899593bc34604895fc137b5056.RankingActivity
+quiz.RankingActivity;md591606c899593bc34604895fc137b5056.RankingActivity
 Quiz.selectCategoryActivity, Quiz;md591606c899593bc34604895fc137b5056.selectCategoryActivity
 Quiz.selectCategoryActivity, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.selectCategoryActivity
 Quiz.selectCategoryActivity;md591606c899593bc34604895fc137b5056.selectCategoryActivity

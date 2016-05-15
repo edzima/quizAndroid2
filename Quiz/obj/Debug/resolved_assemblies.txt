@@ -1,16 +1,16 @@
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\Quiz.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\Mono.Android.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\mscorlib.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\MySql.Data.CF.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\Newtonsoft.Json.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\System.Core.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\System.Data.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\System.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\System.Xml.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\System.Xml.Linq.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\System.Runtime.Serialization.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\System.ServiceModel.Internals.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\System.Numerics.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\System.Transactions.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\Mono.Data.Tds.dll
-C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\assemblies\Mono.Security.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\Quiz.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\MySql.Data.CF.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\Newtonsoft.Json.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\System.Core.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\System.Data.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\System.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\System.Numerics.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\System.Transactions.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\Mono.Data.Tds.dll
+C:\Users\Tomek\Source\Repos\quizAndroid2\Quiz\obj\Debug\assemblies\Mono.Security.dll
