@@ -18,6 +18,7 @@
         android:gravity="center" />
     <ListView
         android:layout_height="0dp"
+        android:background="@android:color/background_light"
         android:theme="@style/ListFont"
         android:layout_weight="80"
         android:layout_width="match_parent"

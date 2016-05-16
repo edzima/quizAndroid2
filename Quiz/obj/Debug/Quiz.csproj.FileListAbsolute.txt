@@ -60,5 +60,6 @@ C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\anim\slide_left.xml
 C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\R.cs.flag
 C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\uploadflags.txt
 C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\layout\ranking.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\values\colors.xml
 C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\Quiz.dll.mdb
 C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\bin\Debug\Quiz.dll.mdb

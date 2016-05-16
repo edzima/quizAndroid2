@@ -13,5 +13,13 @@
     <item name="android:textColor">#000</item>
     <item name="android:typeface">sans</item>
   </style>
+
+  <style name="AppStyle_Light">
+    <item name="android:colorPressedHighlight">@color/ListViewSelected</item>
+    <item name="android:colorLongPressedHighlight">@color/ListViewHighlighted</item>
+    <item name="android:colorFocusedHighlight">@color/ListViewSelected</item>
+    <item name="android:colorActivatedHighlight">@color/ListViewSelected</item>
+    <item name="android:activatedBackgroundIndicator">@color/ListViewSelected</item>
+  </style>
   
 </resources>

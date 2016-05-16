@@ -50,6 +50,7 @@ namespace Quiz
                 }
                 ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, Android.Resource.Layout.SimpleListItem1, rankList);
                 listvieww.Adapter = adapter;
+                
 
             }
         }
