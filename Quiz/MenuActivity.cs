@@ -20,6 +20,7 @@ namespace Quiz
         private Button mBtnLogOut;
         private Button mBtnSelectCategory;
         private Button mBtnToAddCategory;
+        private Button mBtnRanking;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             RequestWindowFeature(WindowFeatures.NoTitle);
@@ -28,6 +29,7 @@ namespace Quiz
 
             mBtnToAddCategory = FindViewById<Button>(Resource.Id.btnToAddCategory);
             mBtnLogOut = FindViewById<Button>(Resource.Id.btnLogOut);
+            mBtnRanking = FindViewById<Button>(Resource.Id.btnRanking);
             mBtnSelectCategory = FindViewById<Button>(Resource.Id.btnSelectCategory);
 
 
@@ -43,6 +45,12 @@ namespace Quiz
             {
 
                 StartActivity(typeof(selectCategoryActivity));
+            };
+
+            mBtnRanking.Click += delegate
+            {
+
+                StartActivity(typeof(rankingActivity));
             };
 
             mBtnToAddCategory.Click += delegate

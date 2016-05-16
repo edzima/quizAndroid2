@@ -12,6 +12,7 @@
     </activity>
     <activity android:label="MenuActivity" android:name="md591606c899593bc34604895fc137b5056.MenuActivity" />
     <activity android:label="quizActiviti" android:name="md591606c899593bc34604895fc137b5056.quizActiviti" />
+    <activity android:label="rankingActivity" android:name="md591606c899593bc34604895fc137b5056.rankingActivity" />
     <activity android:label="selectCategoryActivity" android:name="md591606c899593bc34604895fc137b5056.selectCategoryActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Quiz.Quiz.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->

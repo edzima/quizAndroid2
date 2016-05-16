@@ -22,6 +22,10 @@ Quiz.quizActiviti, Quiz;md591606c899593bc34604895fc137b5056.quizActiviti
 Quiz.quizActiviti, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.quizActiviti
 Quiz.quizActiviti;md591606c899593bc34604895fc137b5056.quizActiviti
 quiz.quizActiviti;md591606c899593bc34604895fc137b5056.quizActiviti
+Quiz.rankingActivity, Quiz;md591606c899593bc34604895fc137b5056.rankingActivity
+Quiz.rankingActivity, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.rankingActivity
+Quiz.rankingActivity;md591606c899593bc34604895fc137b5056.rankingActivity
+quiz.rankingActivity;md591606c899593bc34604895fc137b5056.rankingActivity
 Quiz.selectCategoryActivity, Quiz;md591606c899593bc34604895fc137b5056.selectCategoryActivity
 Quiz.selectCategoryActivity, Quiz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md591606c899593bc34604895fc137b5056.selectCategoryActivity
 Quiz.selectCategoryActivity;md591606c899593bc34604895fc137b5056.selectCategoryActivity

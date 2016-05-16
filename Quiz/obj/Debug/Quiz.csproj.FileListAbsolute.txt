@@ -30,3 +30,35 @@ C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.csp
 C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\res\layout\addcategory.xml
 C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.dll.mdb
 C:\Users\edzi\Documents\Visual Studio 2015\Projects\Quiz\Quiz\bin\Debug\Quiz.dll.mdb
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\bin\Debug\Quiz.dll
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\bin\Debug\Quiz.pdb
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\bin\Debug\Quiz.Quiz.apk
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\bin\Debug\Quiz.Quiz-Signed.apk
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\bin\Debug\MySql.Data.CF.dll
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\Quiz.dll
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\Quiz.pdb
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\android\bin\Quiz.Quiz.apk
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\layout\register.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\layout\menu.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\layout\login.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\layout\quiz.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\layout\selectcategory.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\layout\addcategory.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\layout\main.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\values\strings.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\drawable\icon.png
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\anim\slide_up.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\anim\slide_right.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\values\styles.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\drawable\btnregisterstyle.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\drawable\btnloginstyle.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\anim\slide_left.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\R.cs.flag
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\uploadflags.txt
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\res\layout\ranking.xml
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\obj\Debug\Quiz.dll.mdb
+C:\Users\edzi\Source\Repos\quizAndroid2\Quiz\bin\Debug\Quiz.dll.mdb

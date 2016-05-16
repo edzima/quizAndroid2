@@ -14,13 +14,15 @@
         android:id="@+id/btnSelectCategory"
         android:textSize="15sp"
         android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp" />
     <Button
         android:text="Dodaj Pytanie"
         android:layout_width="match_parent"
         android:layout_weight="15"
         android:layout_height="0dp"
-        android:background="@drawable/btnLoginStyle"
+        android:background="@drawable/btnRegisterStyle"
         android:id="@+id/btnAddQuestion"
         android:textSize="15sp"
         android:layout_marginRight="20dp"
@@ -36,8 +38,23 @@
         android:layout_marginRight="20dp"
         android:layout_marginLeft="20dp" />
     <Button
-        android:text="Wyloguj"
+        android:text="Ranking"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/btnLogOut" />
+        android:layout_weight="15"
+        android:layout_height="0dp"
+        android:background="@drawable/btnLoginStyle"
+        android:id="@+id/btnRanking"
+        android:textSize="15sp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp" />
+    <Button
+        android:text="Wyloguj"
+        android:layout_weight="15"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/btnLogOut"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp" />
 </LinearLayout>
